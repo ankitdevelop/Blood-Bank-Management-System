@@ -1,0 +1,43 @@
+Changes required in Website. 
+1. In Need blood page (Validation fix)
+-> When submitting the request, the max limit of units are 20. But when user enter more than 20. It's doesn't have any validation check at the frontend. Fix it. 
+
+2. Admin Dashboard
+-> When clicking the view button, it should only show the query requested.
+
+3. In About page [Done]
+-> Numbers animation
+
+4. Scroll at the top [Fixed]
+-> On every page, when directed or reloaded. It should scroll to the top
+
+5. QuickCards in Home page
+-> Eligibilty Card should direct to the Become-donor Eligibilty criteria section, not the start.
+
+6. CTA Button in Become-donor
+-> The CTA should scroll to the Registration form in same page
+
+7. Need-blood
+-> Fix validators for Registration form
+
+8. Admin donor management
+-> Suggestion to add - Include the age and last donation column. And an extra column to contact donor after 8 weeks of donation. Should apply a condition when completed 8-9 weeks of last donation the dasboard should automatically show contact donor button or option.
+
+9. Admin Dashboard
+-> Fix
+
+10. Admin Blood request management
+-> Update the page
+
+11. Contact Queries
+-> Failed to update status - fix this error
+
+12. Inventory
+-> Status malfunction and Quick cards Average price
+O+ blood Units available not visible
+
+13. Change password
+-> Fix
+
+14. Most Important - Routing between admin pages
+-> The authentication doesn't work when directly opening admin pages without login.
